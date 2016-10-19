@@ -5,6 +5,11 @@ int sum(int a, int b)
 	return a+b;
 }
 
+int tdd()
+{
+
+}
+
 int main()
 {
 	printf("Hello World\n");
