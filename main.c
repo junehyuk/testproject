@@ -7,8 +7,9 @@ int sum(int a, int b)
 
 int main()
 {
-	printf("Hello World");
+	printf("Hello World\n");
 	int a=3, b=5;
-	printf("%d+%d = %d",a,b,sum(a,b));
+	
+	printf("%d + %d = %d\n",a,b,sum(a,b));
 	return 0;
 }
